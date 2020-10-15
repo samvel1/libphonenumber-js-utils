@@ -1,0 +1,6 @@
+{
+  "license": "MIT",
+  "main": "dist/libphonenumber.js",
+  "name": "libphonenumber-js-utils",
+  "version": "8.10.5"
+}
